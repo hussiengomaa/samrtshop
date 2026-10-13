@@ -1,0 +1,6 @@
+{
+  "name": "SmartShop AI",
+  "description": "Smart Price Comparison & Shopping Assistant for Egyptian consumers with real external product search, price comparison, AI recommendations, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
